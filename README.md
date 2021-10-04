@@ -1,6 +1,6 @@
 # **Lotem**
 
-<img src="https://i.ibb.co/xHkLXwg/LOTIM-LOGO.jpg" />
+<img src="https://i.ibb.co/xHkLXwg/LOTIM-LOGO.jpg" width="100" height="100"/>
 
 # **About the organization**
 
